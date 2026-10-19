@@ -7,8 +7,6 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31gef4hfcta6mcbbr2n62bqqp34u&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=dark">
   </a>
 </p>
-  </a>
-</p>
 
 # Computer Engineering Student
 <p align="center">19 y/o | Male | 🇹🇭</p>
@@ -21,6 +19,9 @@
 <p align="center"><img width="585" height="295" alt="angel-devil-chainsaw-man" src="https://github.com/user-attachments/assets/2923fdff-b725-41c4-8cae-77dea3b3e904" /></p>
 
 
-<p align="center"><img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azkaeiorszghjhbvgu&layout=compact&hide_border=true" alt="Top languages" /></p>
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=azkaeiorszghjhbvgu&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azkaeiorszghjhbvgu&layout=compact&hide_border=true&theme=github_dark" alt="Top languages" />
+</p>
 
 ![](./profile-3d-contrib/profile-night-green.svg)
