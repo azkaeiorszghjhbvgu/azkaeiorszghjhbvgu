@@ -2,11 +2,6 @@
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.com/users/687933907806846998) [![Steam](https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white)](https://steamcommunity.com/id/azkxc/)
 
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31gef4hfcta6mcbbr2n62bqqp34u&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=dark">
-  </a>
-</p>
 
 # Computer Engineering Student
 <p align="center">19 y/o | Male | 🇹🇭</p>
@@ -18,6 +13,10 @@
 </p>
 <p align="center"><img width="585" height="295" alt="angel-devil-chainsaw-man" src="https://github.com/user-attachments/assets/2923fdff-b725-41c4-8cae-77dea3b3e904" /></p>
 
+
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31gef4hfcta6mcbbr2n62bqqp34u">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31gef4hfcta6mcbbr2n62bqqp34u" alt="Data Card for Spotify">
+</a>
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=azkaeiorszghjhbvgu&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true" alt="GitHub stats" />
