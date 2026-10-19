@@ -1,14 +1,18 @@
 [![Nobara Linux](https://img.shields.io/badge/Nobara%20Linux-000?logo=nobaralinux&logoColor=fff)](#) [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
 
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.com/users/687933907806846998) 
 # Computer Engineering Student
-I like trying out random bs
+<p align="center">19 y/o | Male | 🇹🇭</p>
+<p align="center">I like trying out random bs</p>
 
-<p>
+<p align="center">
   <img width="290" height="290" alt="agpain" src="https://github.com/user-attachments/assets/8ab797fe-6441-431b-b127-34dfad69154a" />
   <img width="290" height="290" alt="angel-chainsawman" src="https://github.com/user-attachments/assets/077142b0-afcd-416b-aeed-561a93ec2674" />
 </p>
+<p align="center"><img width="585" height="295" alt="angel-devil-chainsaw-man" src="https://github.com/user-attachments/assets/2923fdff-b725-41c4-8cae-77dea3b3e904" /></p>
 
-<p><img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azkaeiorszghjhbvgu&layout=compact&hide_border=true" alt="Top languages" /></p>
+
+<p align="center"><img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azkaeiorszghjhbvgu&layout=compact&hide_border=true" alt="Top languages" /></p>
 
 
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.com/users/687933907806846998) 
+
