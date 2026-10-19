@@ -6,3 +6,4 @@ Computer Engineering Student | Windows/Linux user | Trying to find aspects I lik
 </p>
 
 ![Profile views](https://komarev.com/ghpvc/?username=azkaeiorszghjhbvgu&color=blue)
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white)](#)
