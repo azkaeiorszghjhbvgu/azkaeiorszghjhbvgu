@@ -1,16 +1,3 @@
-<details>
-<summary>Template: minimal</summary>
-
-
-Computer Engineering Student | Windows/Linux user | Trying to find aspects I like
-
-
-</details>
-
-<details>
-<summary>Template: stats</summary>
-
-# Hi, I'm azk 👋
 
 Computer Engineering Student | Windows/Linux user | Trying to find aspects I like
 
@@ -20,5 +7,3 @@ Computer Engineering Student | Windows/Linux user | Trying to find aspects I lik
 </p>
 
 ![Profile views](https://komarev.com/ghpvc/?username=azkaeiorszghjhbvgu&color=blue)
-
-</details>
